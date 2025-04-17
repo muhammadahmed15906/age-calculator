@@ -1,23 +1,22 @@
 # 🎂 Age Calculator
 
-A simple web-based Age Calculator that lets users input their birthdate and calculates their current age.
+A simple and elegant web-based Age Calculator. Enter your birthdate, click a button, and instantly know your age!
 
 ## 🚀 Live Demo
 
 [Click here to try it out](#)  
-(*Add your GitHub Pages or live link here once deployed*)
+(*Replace `#` with your live GitHub Pages or hosting link*)
 
 ## 📸 Preview
 
-![Age Calculator Screenshot](screenshot.png)  
-(*Replace with actual screenshot or remove if not needed*)
+![Age Calculator Screenshot](ahmedscreen.png)
 
 ## 🛠️ Features
 
-- User-friendly UI
-- Calculates accurate age based on today's date
-- Simple and clean design
-- Responsive layout (mobile-friendly)
+- User-friendly and responsive UI
+- Real-time age calculation based on input
+- Minimalist and modern dark-mode design
+- Built using plain HTML, CSS, and JavaScript
 
 ## 📁 Project Structure
 
